@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ntadicpcpls
+- 👀 I’m interested in database management, web dev, UI/UX, metalcore, fantasy books, and photography
+- 🌱 I’m currently working in UI/UX
+- 💞️ I’m looking to collaborate on nada at the moment
+- 📫 How to reach me --> Here on Github!
